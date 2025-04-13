@@ -1,12 +1,10 @@
+# Team: Rachel Lane, Brijette Baboolal, Jelani Jenkins, Jose Flores,
+# Clint Scott, William Stearns, Laura Makokha, Colby King.
 
-
-import random, sys, time
-# Name: Jose Flores
 # Assignment: Forest Fire Simulation: Program Revised
-# Team: Rachel Lane, Brijette Baboolal, Jelani Jenkins, Clint Scott,
-# William Stearns, Laura Makokha, Colby King.
 # Date: 4-13-2025
 
+import random, sys, time
 
 try:
     import bext
